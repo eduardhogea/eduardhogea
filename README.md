@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @eduardhogea
-- 👀 I’m interested in learning new stuff
-- 🌱 Currently working on an Image Recognition App for Nokia
+- ✨ Currently gaining knowledge 
+- #### TO DO ----> Apply it
+- 🌱 Working on an Image Recognition App for Nokia
 - 📫 Contact me: eduard.hogea00@e-uvt.ro
 
 <!---

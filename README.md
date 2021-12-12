@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @eduardhogea
 - ✨ Currently gaining knowledge 
 - #### TO DO ----> Apply it
-- 🌱 Working on an Image Recognition App for Nokia
+- 🤖 Working on my Bachelor Thesis
+- 💯 and also doing 100 days of code challenge
 - 📫 Contact me: eduard.hogea00@e-uvt.ro
 
 <!---

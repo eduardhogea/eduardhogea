@@ -7,7 +7,6 @@
 
 - 🧑‍🎓 Intern at West University of Timisoara, working on an AI and XAI project
 - 🤖 Working on my Bachelor Thesis
-- 💯 and also doing 100 days of code challenge
 - 📫 Contact me: eduard.hogea00@e-uvt.ro
 
 <!---

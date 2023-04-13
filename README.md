@@ -9,9 +9,15 @@ I am a first-year master's student studying **Big Data** and passionate about **
 - 🇦🇹 Spent one semester as an exchange student in Linz, Austria at **Johannes Kepler University** during my bachelor's degree.
 - 🇪🇸 Currently in an Erasmus exchange study program in Barcelona at **Universitat Autònoma de Barcelona**.
 
+## 🎤 Conferences and Awards
+
+- [SYNASC](https://synasc.ro) - At this international conference, I delivered a presentation on the comparative analysis of Deep Learning methods and Neuro-symbolic approaches. I highlighted how the integration of First Order Logic with a deep learning model as the backbone enhances the performance of neuro-symbolic systems.
+- [Sesiunea de Comunicari Stiintifice Studentesti](https://sites.google.com/e-uvt.ro/concursultraianlalescu/acas%C4%83) - I was honored with an award for demonstrating the practical applications of neuro-symbolic models in the realm of cybersecurity. My research focused on training models using datasets employed in Intrusion Detection Systems (IDS).
+- [Smart Diaspora](https://www.diaspora-stiintifica.ro/) - Was invited to exhibit my poster outlining the advancements in the neuro-symbolic domain of AI, as well as to discuss the progress of my publications in collaboration with my supervising professor.
+
 ## 📚 Publications
 
-- [A Study on the Impact of Machine Learning Algorithms for Predicting Bitcoin Price](https://doi.org/10.3390/app122211502) - Published in [Applied Sciences], [2022]
+- [A Neuro-Symbolic Classifier with Optimized Satisfiability for Monitoring Security Alerts in Network Traffic](https://doi.org/10.3390/app122211502) - Published in [Applied Sciences], [2022]
 
 ## 🛠️ Technologies & Tools
 

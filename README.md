@@ -11,9 +11,9 @@ I am a first-year master's student studying **Big Data** and passionate about **
 
 ## 🎤 Conferences and Awards
 
-- [SYNASC](https://synasc.ro) - At this international conference, I delivered a presentation on the comparative analysis of Deep Learning methods and Neuro-symbolic approaches. I highlighted how the integration of First Order Logic with a deep learning model as the backbone enhances the performance of neuro-symbolic systems.
+- [SYNASC](https://synasc.ro) - At this international conference, I delivered a presentation on the comparative analysis of Deep Learning methods and Neuro-symbolic approaches. I highlighted how the integration of First Order Logic with a deep learning model as the backbone enhances the performance of neuro-symbolic systems. A post-conference paper should be available soon.
 - [Sesiunea de Comunicari Stiintifice Studentesti](https://sites.google.com/e-uvt.ro/concursultraianlalescu/acas%C4%83) - I was honored with an award for demonstrating the practical applications of neuro-symbolic models in the realm of cybersecurity. My research focused on training models using datasets employed in Intrusion Detection Systems (IDS).
-- [Smart Diaspora](https://www.diaspora-stiintifica.ro/) - Was invited to exhibit my poster outlining the advancements in the neuro-symbolic domain of AI, as well as to discuss the progress of my publications in collaboration with my supervising professor.
+- [Smart Diaspora](https://www.diaspora-stiintifica.ro/) - Was invited to exhibit my poster outlining the advancements in the neuro-symbolic domain of AI, as well as to discuss the progress of my publications in collaboration with my supervising professor. Event, under the high patronage of the President of Romania.
 
 ## 📚 Publications
 

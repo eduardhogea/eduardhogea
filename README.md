@@ -11,13 +11,14 @@ Hacking my way through life as a second-year Master's student specializing in **
 
 ## 🎤 Conferences and Awards
 
-- [SYNASC](https://ieeexplore.ieee.org/document/10130897) - At this international conference, I delivered a presentation on the comparative analysis of Deep Learning methods and Neuro-symbolic approaches. I highlighted how the integration of First Order Logic with a deep learning model as the backbone enhances the performance of neuro-symbolic systems. A post-conference paper published by IEEE is available.
+- [SYNASC](https://synasc.ro) - At this international conference, I delivered a presentation on the comparative analysis of Deep Learning methods and Neuro-symbolic approaches. I highlighted how the integration of First Order Logic with a deep learning model as the backbone enhances the performance of neuro-symbolic systems. A post-conference paper published by IEEE is available.
 - [Sesiunea de Comunicari Stiintifice Studentesti](https://sites.google.com/e-uvt.ro/concursultraianlalescu/acas%C4%83) - I was honored with an award for demonstrating the practical applications of neuro-symbolic models in the realm of cybersecurity. My research focused on training models using datasets employed in Intrusion Detection Systems (IDS).
 - [Smart Diaspora](https://www.diaspora-stiintifica.ro/) - Was invited to exhibit my poster outlining the advancements in the neuro-symbolic domain of AI, as well as to discuss the progress of my publications in collaboration with my supervising professor. Event, under the high patronage of the President of Romania.
 
 ## 📚 Publications
 
 - [A Neuro-Symbolic Classifier with Optimized Satisfiability for Monitoring Security Alerts in Network Traffic](https://doi.org/10.3390/app122211502) - Published in [Applied Sciences], [2022]
+- [Advantages of a neuro-symbolic solution for monitoring IT infrastructures alerts](https://ieeexplore.ieee.org/document/10130897) - SYNASC post conference paper, [2022]
 - [Neuro-symbolic model for cantilever beams damage detection](https://www.sciencedirect.com/science/article/abs/pii/S0166361523001410) - Published in [Computers in Industry], [2023]
 
 ## 🛠️ Technologies & Tools

@@ -7,7 +7,7 @@ Hacking my way through life as a second-year Master's student specializing in **
 ## 🌍 My Exchange Experiences
 
 - 🇦🇹 Spent one semester as an exchange student in Linz, Austria at **Johannes Kepler University** during my bachelor's degree.
-- 🇪🇸 Studied in Barcelona at **Universitat Autònoma de Barcelona** Computer Vision.
+- 🇪🇸 Studied in Barcelona for a year at **Universitat Autònoma de Barcelona**, focused on Computer Vision.
 
 ## 🎤 Conferences and Awards
 

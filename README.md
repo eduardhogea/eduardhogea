@@ -2,22 +2,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Big%20Data%20and%20AI%20Enthusiast&fontSize=40)
 
-I am a first-year master's student studying **Big Data** and passionate about **Artificial Intelligence**. I love exploring new technologies and constantly strive to improve my skills.
+Hacking my way through life as a second-year Master's student specializing in **Big Data** . Passionate about **Artificial Intelligence** and constantly honing my skills.
 
 ## 🌍 My Exchange Experiences
 
 - 🇦🇹 Spent one semester as an exchange student in Linz, Austria at **Johannes Kepler University** during my bachelor's degree.
-- 🇪🇸 Currently in an Erasmus exchange study program in Barcelona at **Universitat Autònoma de Barcelona**.
+- 🇪🇸 Studied in Barcelona at **Universitat Autònoma de Barcelona** Computer Vision.
 
 ## 🎤 Conferences and Awards
 
-- [SYNASC](https://synasc.ro) - At this international conference, I delivered a presentation on the comparative analysis of Deep Learning methods and Neuro-symbolic approaches. I highlighted how the integration of First Order Logic with a deep learning model as the backbone enhances the performance of neuro-symbolic systems. A post-conference paper should be available soon.
+- [SYNASC](https://ieeexplore.ieee.org/document/10130897) - At this international conference, I delivered a presentation on the comparative analysis of Deep Learning methods and Neuro-symbolic approaches. I highlighted how the integration of First Order Logic with a deep learning model as the backbone enhances the performance of neuro-symbolic systems. A post-conference paper published by IEEE is available.
 - [Sesiunea de Comunicari Stiintifice Studentesti](https://sites.google.com/e-uvt.ro/concursultraianlalescu/acas%C4%83) - I was honored with an award for demonstrating the practical applications of neuro-symbolic models in the realm of cybersecurity. My research focused on training models using datasets employed in Intrusion Detection Systems (IDS).
 - [Smart Diaspora](https://www.diaspora-stiintifica.ro/) - Was invited to exhibit my poster outlining the advancements in the neuro-symbolic domain of AI, as well as to discuss the progress of my publications in collaboration with my supervising professor. Event, under the high patronage of the President of Romania.
 
 ## 📚 Publications
 
 - [A Neuro-Symbolic Classifier with Optimized Satisfiability for Monitoring Security Alerts in Network Traffic](https://doi.org/10.3390/app122211502) - Published in [Applied Sciences], [2022]
+- [Neuro-symbolic model for cantilever beams damage detection](https://www.sciencedirect.com/science/article/abs/pii/S0166361523001410) - Published in [Computers in Industry], [2023]
 
 ## 🛠️ Technologies & Tools
 
@@ -41,6 +42,3 @@ I am a first-year master's student studying **Big Data** and passionate about **
 - Email: eduard.hogea00@e-uvt.ro
 
 ![Eduard Hogea's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardhogea&show_icons=true&theme=radical)
-
-⭐️ From [eduardhogea](https://github.com/eduardhogea)
-

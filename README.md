@@ -1,6 +1,6 @@
 # Hi there, I'm Eduard Hogea! 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Big%20Data%20and%20AI%20Enthusiast&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Big%20Data%20and%20AI%20Enthusiast&fontSize=40)
 
 Hacking my way through life as a second-year Master's student specializing in **Big Data** . Passionate about **Artificial Intelligence** and constantly honing my skills.
 

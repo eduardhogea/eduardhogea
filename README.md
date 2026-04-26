@@ -8,7 +8,7 @@ I am especially interested in systems that do more than predict: models that exp
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-eduardhogea.github.io-0A66C2?style=flat-square)](https://eduardhogea.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=t2NWC4QAAAAJ&hl=ro&authuser=1)
-[![arXiv](https://img.shields.io/badge/arXiv-Eduard%20Hogea-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/search/?searchtype=author&query=Hogea%2C+E)
+[![arXiv](https://img.shields.io/badge/arXiv-Eduard%20Hogea-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/search/cs?searchtype=author&query=Hogea%2C+E)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5814--992X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5814-992X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduard%20Hogea-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-hogea)
 
@@ -124,7 +124,7 @@ I am especially interested in systems that do more than predict: models that exp
 - Portfolio: [eduardhogea.github.io](https://eduardhogea.github.io/)
 - Publications: [eduardhogea.github.io/publications](https://eduardhogea.github.io/publications/)
 - Google Scholar: [Eduard Hogea](https://scholar.google.com/citations?user=t2NWC4QAAAAJ&hl=ro&authuser=1)
-- arXiv: [Eduard Hogea author search](https://arxiv.org/search/?searchtype=author&query=Hogea%2C+E)
+- arXiv: [Eduard Hogea author search](https://arxiv.org/search/cs?searchtype=author&query=Hogea%2C+E)
 - ORCID: [0000-0002-5814-992X](https://orcid.org/0000-0002-5814-992X)
 - LinkedIn: [eduard-hogea](https://www.linkedin.com/in/eduard-hogea)
 - GitHub: [eduardhogea](https://github.com/eduardhogea)
